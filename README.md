@@ -14,10 +14,4 @@ including page structure, navigation, and visual styling.
 - Navigation between sections of the site
 - Organized layout and content presentation
 
-## Technologies
-- HTML
-- CSS
-
-## Purpose
-This project was created as part of coursework in the
-Computer Programming and Analysis program at Fanshawe College.
+Created as a programming assignment in the Computer Programming and Analysis program at Fanshawe College.
